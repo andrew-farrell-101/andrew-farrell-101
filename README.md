@@ -1,4 +1,4 @@
-👋 Hi, Andrew Farrell <br>
+👋 Hi, I'm Andrew Farrell <br>
 👀 I’m interested in Reinforcement Learning, FinTech, and making beautiful code<br>
 🌱 I'm currently taking coursework in AI, RL, Software Engineering<br>
 💞️ I’m looking to collaborate with other people who are passionate about software and code <br>
